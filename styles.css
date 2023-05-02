@@ -2,19 +2,19 @@
 p#yellow{
 	border-style:solid;
 	border-color:green;
-	border-width:1px;
+	border-top-width:3px;
 	background-color:yellow;
 }
 p#red{
 border-style:solid;
 	border-color:black;
-	border-width:1px;
+	border-top-width:3px;
 	background-color:red;
 }
 
 p#green{
 	border-color:yellow;
-	border-width:1px;
+	border-top-width:3px;
 	background-color:green;
 	border-style:solid;
 }
